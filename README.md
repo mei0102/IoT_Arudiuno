@@ -1,4 +1,7 @@
 # Product of Arudiuno
-Arduino using C language is Microcomputer of IoT.
+Arduino is a microcomputer of IoT that uses the C language.
 I leaned the basics of Arduino during my one-month internship.
-## the system is Baseketcorte
+## Basketball Court Congestion Management System
+This is a first product.
+For more information, please refer to the following URL.
+You'll find the design documents there.
